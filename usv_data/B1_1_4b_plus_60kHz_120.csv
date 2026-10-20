@@ -1,0 +1,7 @@
+"","file","minute","seconds","temp_detect_deb","temp_detect_fin","duration_detect","freq_detect_deb","freq_detect_fin","freq_detect_max","freq_detect_mean","ampl_detect_max","ampl_detect_mean"
+"1","B1_1_4b.wav",3,"130",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","B1_1_4b.wav",3,"140",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","B1_1_4b.wav",3,"150",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","B1_1_4b.wav",3,"160",8.1479205080926,8.18274943659086,0.0348289284982588,77.1484375,76.171875,80.56640625,78.8352272727273,54.9234537601233,50.1122519224805
+"5","B1_1_4b.wav",3,"170",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","B1_1_4b.wav",3,"180",NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,7 @@
+"","file","minute","seconds","temp_detect_deb","temp_detect_fin","duration_detect","freq_detect_deb","freq_detect_fin","freq_detect_max","freq_detect_mean","ampl_detect_max","ampl_detect_mean"
+"1","M8_1_1a.wav",2," 70",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","M8_1_1a.wav",2," 80",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","M8_1_1a.wav",2," 90",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","M8_1_1a.wav",2,"100",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","M8_1_1a.wav",2,"110",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","M8_1_1a.wav",2,"120",NA,NA,NA,NA,NA,NA,NA,NA,NA
